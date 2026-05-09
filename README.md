@@ -11,12 +11,11 @@ Este proyecto permite gestionar estudiantes, tareas y operaciones básicas de un
 El sistema fue desarrollado como práctica de programación en Python utilizando conceptos básicos e intermedios.
 
 Funcionalidades
+---------------
 
 Registro de estudiantes
 
 Gestión de tareas
-
-Operaciones matemáticas
 
 Manejo de archivos CSV y JSON
 
@@ -27,6 +26,7 @@ Manejo de excepciones
 Uso de listas y bucles
 
 Tecnologías utilizadas
+----------------------
 
 Python 3
 
@@ -35,6 +35,7 @@ Git
 GitHub
 
 Cómo ejecutar el proyecto
+-------------------------
 
 Descargar o clonar el repositorio.
 
@@ -42,12 +43,8 @@ Abrir la carpeta en Visual Studio Code.
 
 Ejecutar el archivo principal.
 
-
-Ejemplo:
-
-python main.py
-
 Estructura del proyecto
+-----------------------
 
 gestion_tareas_mecanica/
 
@@ -64,9 +61,11 @@ gestion_tareas_mecanica/
 └── README.md
 
 Autor
+--------
 
 Proyecto desarrollado por Marlon Quinde.
 
 Repositorio
+------------
 
 Repositorio disponible en GitHub.
