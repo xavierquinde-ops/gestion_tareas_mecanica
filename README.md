@@ -1,4 +1,5 @@
 Gestión de Tareas Mecánica
+==========================
 
 Ejercicio de sistema de gestión académica desarrollado en Python para estudiantes de Ingeniería Mecánica.
 
