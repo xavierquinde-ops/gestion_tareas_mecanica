@@ -50,15 +50,10 @@ Estructura del proyecto
 gestion_tareas_mecanica/
 
 ├── main.py
-
-├── calculadora_pro.py
-
-├── convertidor_persistencia.py
-
-├── datos.csv
-
-├── salida.json
-
+├── repositorio_estudiante.py
+├── repositorio_entrega.py
+├── repositorio_tarea.py
+├── reporte_estudiantes.csv
 └── README.md
 
 Autor
